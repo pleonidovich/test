@@ -1,0 +1,32 @@
+.projects-content-section {
+    background-color: #F6F6F8;
+    padding-top:80px;
+    padding-bottom:120px;
+    text-align:center;
+}
+
+.projects-content-title {
+    font-size: 2rem;
+    line-height: 53px;  
+    margin:0;
+    margin-bottom:30px;
+}
+
+.projects-content-text {
+    font-size: 1rem;
+    line-height: 25px;
+    color:#999999;
+    margin:0;
+    margin-bottom:50px;
+}
+.projects-content-image {
+margin-bottom:50px;
+}
+.cod-image {
+    margin-right: 30px;
+}
+
+.cod-image:last-child {
+    margin:0;
+}
+
